@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Build outputs
+dist/
+build/
+.next/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.log
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Project specific
+scratch/
+artifacts/
+lib/
+scripts/
+.replit
+.replitignore
+.npmrc
+
+.vercel
